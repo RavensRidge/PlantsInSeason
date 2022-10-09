@@ -7,7 +7,7 @@ This app is going to show the best plants to grow in different times of the year
 
                by rav3ndust (https://rav3ndust.xyz) 
 
-               licensed under the MIT license. 
+               licensed under the GNU General Public License, version 3 or later.  
 
 This is the Welcome Screen.
 '''
